@@ -1,4 +1,4 @@
-# Python comparison analysis of different forecasting techniques for time series
+# Python comparison analysis of different time series models and forecasting
 
 This is a learning project aimed on selecting different features of time series like trend, seasonality, noise.
 Additive and multiplicative decomposition of time series are performed. Linear regression is calculated.
