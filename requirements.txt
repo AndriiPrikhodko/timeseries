@@ -1,0 +1,8 @@
+Scipy
+Matplotlib
+Seaborn
+Numpy
+Pandas
+Statsmodels
+Altair
+Tensorflow
